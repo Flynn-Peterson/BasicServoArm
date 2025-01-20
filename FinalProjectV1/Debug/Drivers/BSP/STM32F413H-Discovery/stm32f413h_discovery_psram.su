@@ -1,0 +1,8 @@
+../Drivers/BSP/STM32F413H-Discovery/stm32f413h_discovery_psram.c:85:9:BSP_PSRAM_Init	8	static
+../Drivers/BSP/STM32F413H-Discovery/stm32f413h_discovery_psram.c:133:9:BSP_PSRAM_DeInit	8	static
+../Drivers/BSP/STM32F413H-Discovery/stm32f413h_discovery_psram.c:162:9:BSP_PSRAM_ReadData	24	static
+../Drivers/BSP/STM32F413H-Discovery/stm32f413h_discovery_psram.c:181:9:BSP_PSRAM_ReadData_DMA	24	static
+../Drivers/BSP/STM32F413H-Discovery/stm32f413h_discovery_psram.c:200:9:BSP_PSRAM_WriteData	24	static
+../Drivers/BSP/STM32F413H-Discovery/stm32f413h_discovery_psram.c:219:9:BSP_PSRAM_WriteData_DMA	24	static
+../Drivers/BSP/STM32F413H-Discovery/stm32f413h_discovery_psram.c:236:13:BSP_PSRAM_MspInit	64	static
+../Drivers/BSP/STM32F413H-Discovery/stm32f413h_discovery_psram.c:320:13:BSP_PSRAM_MspDeInit	16	static

@@ -1,0 +1,15 @@
+../Drivers/BSP/STM32F413H-Discovery/stm32f413h_discovery_qspi.c:99:9:BSP_QSPI_Init	24	static,ignoring_inline_asm
+../Drivers/BSP/STM32F413H-Discovery/stm32f413h_discovery_qspi.c:146:9:BSP_QSPI_DeInit	8	static
+../Drivers/BSP/STM32F413H-Discovery/stm32f413h_discovery_qspi.c:169:9:BSP_QSPI_Read	80	static
+../Drivers/BSP/STM32F413H-Discovery/stm32f413h_discovery_qspi.c:215:9:BSP_QSPI_Write	96	static
+../Drivers/BSP/STM32F413H-Discovery/stm32f413h_discovery_qspi.c:289:9:BSP_QSPI_Erase_Block	72	static
+../Drivers/BSP/STM32F413H-Discovery/stm32f413h_discovery_qspi.c:331:9:BSP_QSPI_Erase_Chip	64	static
+../Drivers/BSP/STM32F413H-Discovery/stm32f413h_discovery_qspi.c:371:9:BSP_QSPI_GetStatus	72	static
+../Drivers/BSP/STM32F413H-Discovery/stm32f413h_discovery_qspi.c:424:9:BSP_QSPI_GetInfo	16	static
+../Drivers/BSP/STM32F413H-Discovery/stm32f413h_discovery_qspi.c:440:9:BSP_QSPI_EnableMemoryMappedMode	72	static
+../Drivers/BSP/STM32F413H-Discovery/stm32f413h_discovery_qspi.c:477:13:BSP_QSPI_MspInit	64	static
+../Drivers/BSP/STM32F413H-Discovery/stm32f413h_discovery_qspi.c:548:13:BSP_QSPI_MspDeInit	16	static
+../Drivers/BSP/STM32F413H-Discovery/stm32f413h_discovery_qspi.c:586:16:QSPI_ResetMemory	72	static
+../Drivers/BSP/STM32F413H-Discovery/stm32f413h_discovery_qspi.c:627:16:QSPI_DummyCyclesCfg	88	static,ignoring_inline_asm
+../Drivers/BSP/STM32F413H-Discovery/stm32f413h_discovery_qspi.c:685:16:QSPI_WriteEnable	96	static
+../Drivers/BSP/STM32F413H-Discovery/stm32f413h_discovery_qspi.c:730:16:QSPI_AutoPollingMemReady	96	static

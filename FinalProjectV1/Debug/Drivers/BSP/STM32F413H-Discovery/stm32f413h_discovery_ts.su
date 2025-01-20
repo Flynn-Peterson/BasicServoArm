@@ -1,0 +1,5 @@
+../Drivers/BSP/STM32F413H-Discovery/stm32f413h_discovery_ts.c:100:9:BSP_TS_Init	16	static
+../Drivers/BSP/STM32F413H-Discovery/stm32f413h_discovery_ts.c:114:9:BSP_TS_InitEx	24	static
+../Drivers/BSP/STM32F413H-Discovery/stm32f413h_discovery_ts.c:213:9:BSP_TS_ITConfig	16	static
+../Drivers/BSP/STM32F413H-Discovery/stm32f413h_discovery_ts.c:238:9:BSP_TS_GetState	48	static
+../Drivers/BSP/STM32F413H-Discovery/stm32f413h_discovery_ts.c:495:13:BSP_TS_INT_MspInit	32	static
